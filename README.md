@@ -36,6 +36,8 @@ Snowflake Data Warehouse (COVID_DB.COVID_SCHEMA)
 
 ## Architecture Diagram
 
+![Architecture Diagram](./Images/architecture_diagram.png)
+
 
 ## Data Sources (10 Raw Files)
 
